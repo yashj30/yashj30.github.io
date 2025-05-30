@@ -1,13 +1,13 @@
 ---
-title: "CyberTeam India Internship CTF"
+title: "SSRF in PDF Generators"
 pubDate: 2019-01-02
-description: "Write-up of the CyberTeam India Internship CTF, covering web and forensics challenges."
+description: "Add it "
 heroImage: "/blog-placeholder-about.jpg"
 ---
 
 ## Introduction
 
-This was my first write-up and third CTF attempt overall. The CyberTeam India Internship CTF had a unique format — unlike most other CTFs, there were no crypto challenges and a strong focus on forensics.
+ADD it and change the blog
 
 ---
 
