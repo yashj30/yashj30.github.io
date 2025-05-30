@@ -2,7 +2,7 @@
 title: "CyberTeam India Internship CTF"
 pubDate: 2019-01-02
 description: "Write-up of the CyberTeam India Internship CTF, covering web and forensics challenges."
-heroImage: "/blog-placeholder-about.jpg"
+heroImage: "/ctf.webp"
 ---
 
 # CyberTeam India Internship CTF
